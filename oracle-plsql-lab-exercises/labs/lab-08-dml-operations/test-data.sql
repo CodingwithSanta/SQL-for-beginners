@@ -1,0 +1,3 @@
+INSERT INTO Emp VALUES (1, 'Ram', 'HR', 20000);
+INSERT INTO Emp VALUES (2, 'Sam', 'IT', 30000);
+INSERT INTO Emp VALUES (3, 'Ravi', 'Fin', 25000);

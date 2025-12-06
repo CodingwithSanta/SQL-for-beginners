@@ -1,0 +1,5 @@
+INSERT INTO Employee VALUES (1, 'Ram', 'HR', 20000, DATE '2023-01-10');
+INSERT INTO Employee VALUES (2, 'Sam', 'IT', 25000, DATE '2022-03-15');
+INSERT INTO Employee VALUES (3, 'Raj', 'Sales', 18000, DATE '2021-07-20');
+INSERT INTO Employee VALUES (4, 'Kavi', 'Admin', 22000, DATE '2020-11-05');
+INSERT INTO Employee VALUES (5, 'Devi', 'Clerk', 15000, DATE '2024-02-12');
